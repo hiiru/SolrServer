@@ -1,0 +1,1 @@
+@start /min java -Djetty.port=20440 -jar start.jar
